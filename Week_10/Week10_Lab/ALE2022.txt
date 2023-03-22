@@ -1,0 +1,5 @@
+Baltimore 83 79
+Boston 78 84
+NewYork 99 63
+TampaBay 86 76
+Toronto 92 70
